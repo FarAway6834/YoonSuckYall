@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='YoonSuckYall',
-    version='0.0.1',.
+    version='0.0.1',
     description='[martialaw](Martial Law) Joking lib that function what represented "Powerful Programming by closer Partion"',
     author='du7ec',
     author_email='dutec6834@gmail.com',
